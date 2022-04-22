@@ -18,5 +18,6 @@ This model was built using transfer learning with pre-trained VGG16 network in K
 10. If needed, host the web application on a cloud server.
 
 ### Screenshot of web app
+![Screenshot (1129)](https://user-images.githubusercontent.com/37014747/164711556-c77e77fb-1afd-4def-8514-93311fc1f16c.png)
 
 To have a demo of COR-X Analyser, watch this [video.](https://www.youtube.com/watch?v=u-bw8SZFfLs "COR X Analyser")
